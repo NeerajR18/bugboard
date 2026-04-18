@@ -49,5 +49,6 @@ This project was made using-
 | C60474                 | 100 |  0.0010   | 0.1      | https://www.lcsc.com/product-detail/C60474.html                                                                                  |
 | C96446                 | 20  |  0.0181   | 0.36     | https://www.lcsc.com/product-detail/C96446.html                                                                                  |
 | C37704                 | 20  |  0.0313   | 0.63     | https://www.lcsc.com/product-detail/C37704.html                                                                                  |
+| C720477                | 10  |  0.056    | 0.56     | https://www.lcsc.com/product-detail/C720477.html                                                                                 |
 
 
