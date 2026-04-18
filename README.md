@@ -1,3 +1,5 @@
+<img width="720" height="1104" alt="Zine" src="https://github.com/user-attachments/assets/38954c9e-127c-4354-8edc-06109d417c51" />
+
 # bugboard
 STM32 Based Development Board
 
@@ -13,6 +15,7 @@ This development board is intended to be used in a keyboard PCB.
 - Built-in USB-C Port
 - Small size design
 
+
 # PCB
 
 - Schematic
@@ -21,10 +24,10 @@ This development board is intended to be used in a keyboard PCB.
 - PCB
 
 Front
-<img width="635" height="277" alt="image" src="https://github.com/user-attachments/assets/cbb5a8b6-ba7c-41a3-83fc-0cb63fa1a244" />
+<img width="1034" height="451" alt="image" src="https://github.com/user-attachments/assets/efe5af8d-ffaf-437c-bcb8-482be6eefda8" />
 
 Back
-<img width="633" height="287" alt="image" src="https://github.com/user-attachments/assets/0a4a28f9-d7ca-4ae9-8fc7-6812f9fe26b7" />
+<img width="1034" height="457" alt="image" src="https://github.com/user-attachments/assets/29c007d5-02e7-4880-9821-3a928f42d389" />
 
 # Images
 
