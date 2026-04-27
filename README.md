@@ -15,6 +15,13 @@ This development board is intended to be used in a keyboard PCB.
 - Built-in USB-C Port
 - Small size design
 
+# What is a development board?
+
+A development board is a PCB (Printed Circuit Board) with an MCU along with other components such as a USB port, crystals etc. to make prototyping and designing circuits easier.
+Since it already has certain components, it can be used directly in many circuits to save cost as well as time.
+Development boards can vary in size, components, MCU type, amount of GPIOs etc.
+
+bugboard, has the STM32G431CBT6 as its MCU and was made to be used in a PCB as well as a personal project to learn how to make bigger circuits for me.
 
 # PCB
 
