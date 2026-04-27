@@ -1,4 +1,5 @@
-<img width="720" height="1104" alt="Zine" src="https://github.com/user-attachments/assets/38954c9e-127c-4354-8edc-06109d417c51" />
+<img width="720" height="1104" alt="Zine" src="https://github.com/user-attachments/assets/622af9ee-367d-40bf-ba57-bdcf2d7b8d45" />
+
 
 # bugboard
 STM32 Based Development Board
